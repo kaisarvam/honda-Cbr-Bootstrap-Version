@@ -1,0 +1,47 @@
+
+
+.background-head{
+background-color: #264653;
+}
+
+.gray-scale {
+    filter: grayscale(100%);
+  }
+
+  .rounded-full{
+      border-radius: 50%;
+      width: 149px;
+      height: 149px;
+  }
+
+  .color-cyan{
+color: #23A6F0;
+  }
+
+  .color-golden{
+color: #E76F51;
+  }
+
+  .color-golden-bg{
+    background-color: #E76F51;
+      }
+
+
+  .color-golden-border{
+      border: 2px solid #E76F51 ;
+}
+.info-background{
+background-color:rgba(0, 0, 0, 0.534)
+}
+
+.faq-image{
+    height: 431px;
+}
+
+.faq-image-sm{
+    height: 270px;
+}
+
+.footer-background{
+    background-color: #0B0D17;
+}
